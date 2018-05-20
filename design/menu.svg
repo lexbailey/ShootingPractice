@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="menu.svg"
+   inkscape:export-filename="/home/daniel/CLabsAssignment/design/menu.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0831489"
+     inkscape:cx="319.34013"
+     inkscape:cy="336.33155"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1047"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="fill:#afdde9;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2993"
+       width="799"
+       height="424"
+       x="0.5"
+       y="452.86218" />
+    <text
+       xml:space="preserve"
+       style="font-size:72.94096375px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="241.27536"
+       y="535.94788"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="241.27536"
+         y="535.94788">Shooting</tspan><tspan
+         sodipodi:role="line"
+         x="241.27536"
+         y="627.12408"
+         id="tspan2989">Practice</tspan></text>
+    <rect
+       style="fill:#afe9af;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="799"
+       height="174"
+       x="0.5"
+       y="877.86218" />
+    <g
+       id="g3001">
+      <rect
+         transform="translate(0,452.36218)"
+         y="197.95929"
+         x="258.59906"
+         height="58.588848"
+         width="266.68027"
+         id="rect2995"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997"
+         y="684.09985"
+         x="259.69992"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="684.09985"
+           x="259.69992"
+           id="tspan2999"
+           sodipodi:role="line">Start one player game</tspan></text>
+    </g>
+    <g
+       transform="translate(3.0304475,80.812201)"
+       id="g3001-1">
+      <rect
+         transform="translate(0,452.36218)"
+         y="197.95929"
+         x="258.59906"
+         height="58.588848"
+         width="266.68027"
+         id="rect2995-0"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1"
+         y="684.09985"
+         x="259.69992"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="684.09985"
+           x="259.69992"
+           id="tspan2999-9"
+           sodipodi:role="line">Start two player game</tspan></text>
+    </g>
+    <g
+       transform="translate(-203.04067,285.87317)"
+       id="g3001-1-3">
+      <rect
+         y="650.32147"
+         x="258.59906"
+         height="58.588848"
+         width="180.81731"
+         id="rect2995-0-7"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0"
+         y="688.14044"
+         x="304.14664"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="688.14044"
+           x="304.14664"
+           id="tspan2999-9-5"
+           sodipodi:role="line">Credits</tspan></text>
+    </g>
+    <g
+       transform="translate(2.0202942,159.6041)"
+       id="g3001-1-3-8">
+      <rect
+         y="197.95929"
+         x="258.59906"
+         height="58.588848"
+         width="266.68027"
+         id="rect2995-0-7-0"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(0,452.36218)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0-8"
+         y="684.09985"
+         x="323.33954"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="684.09985"
+           x="323.33954"
+           id="tspan2999-9-5-3"
+           sodipodi:role="line">How to play</tspan></text>
+    </g>
+    <g
+       transform="translate(222.23355,283.85287)"
+       id="g3001-1-3-3">
+      <rect
+         y="650.32147"
+         x="341.43158"
+         height="58.588848"
+         width="183.84775"
+         id="rect2995-0-7-1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0-4"
+         y="688.14044"
+         x="351.62381"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="688.14044"
+           x="351.62381"
+           id="tspan2999-9-5-0"
+           sodipodi:role="line">Go full screen</tspan></text>
+    </g>
+    <path
+       id="path3133-6"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 128.54191,875.33294 86.115505,801.33927 85.357888,677.0905 131.57237,740.98265 M 46.467017,876.59564 85.862966,800.8342 84.852814,677.59559 43.436559,742.24535"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3154"
+       sodipodi:cx="85.862968"
+       sodipodi:cy="204.65155"
+       sodipodi:rx="17.930208"
+       sodipodi:ry="18.814091"
+       d="m 103.79318,204.65155 c 0,10.39074 -8.027631,18.81409 -17.930212,18.81409 -9.90258,0 -17.930208,-8.42335 -17.930208,-18.81409 0,-10.39074 8.027628,-18.81409 17.930208,-18.81409 9.902581,0 17.930212,8.42335 17.930212,18.81409 z"
+       transform="translate(-1.5152288,452.10964)" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-261.36014"
+       y="695.22681"
+       id="text3156"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3158"
+         x="-261.36014"
+         y="695.22681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">Character displayed </tspan><tspan
+         sodipodi:role="line"
+         x="-261.36014"
+         y="719.83936"
+         id="tspan3160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">on the menu screen</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -31.314729,253.51768 98.99495,14.14213"
+       id="path3162"
+       inkscape:connector-curvature="0"
+       transform="translate(0,452.36218)" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -56.692199,801.61633 38.3858,968.51951"
+       id="path3162-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-292.73215"
+       y="781.49091"
+       id="text3156-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-292.73215"
+         y="781.49091"
+         id="tspan3160-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">Buttons for credits </tspan><tspan
+         sodipodi:role="line"
+         x="-292.73215"
+         y="806.10345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3976">and fullscreen mode </tspan><tspan
+         sodipodi:role="line"
+         x="-292.73215"
+         y="830.71606"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3978">shown on ground, out </tspan><tspan
+         sodipodi:role="line"
+         x="-292.73215"
+         y="855.32861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3980">of the way of more</tspan><tspan
+         sodipodi:role="line"
+         x="-292.73215"
+         y="879.94116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3982">important buttons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="178.14987"
+       y="422.82571"
+       id="text3156-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="178.14987"
+         y="422.82571"
+         id="tspan3160-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">Game title displayed at top</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 405.07117,430.10821 -21.2132,63.63961"
+       id="path3162-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-299.40558"
+       y="462.16983"
+       id="text3156-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="462.16983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3982-6">Main buttons for starting</tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="486.78241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4075">games and finding out</tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="511.39496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4077">how to play are shown in </tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="536.00751"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4079">the middle.</tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="560.62012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4099">Contrast should be high</tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="585.23267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4101">between button colour and</tspan><tspan
+         sodipodi:role="line"
+         x="-299.40558"
+         y="609.84521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4103">background colour</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -15.152287,528.09301 264.65997,725.07275"
+       id="path3162-13"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 748.59094,997.14121 -5.52948,7.71409 -7.4648,-26.17287 24.60619,3.03054 -4.97653,6.61211 15.20611,10.74466 -6.63541,9.64266 z"
+       id="path4105"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-315.63992"
+       y="996.35114"
+       id="text3156-5-80"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-315.63992"
+         y="996.35114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3982-4">Buttons that are hovered</tspan><tspan
+         sodipodi:role="line"
+         x="-315.63992"
+         y="1020.9637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4154">should change colour to </tspan><tspan
+         sodipodi:role="line"
+         x="-315.63992"
+         y="1045.5763"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4156">indicate they can be</tspan><tspan
+         sodipodi:role="line"
+         x="-315.63992"
+         y="1070.1888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4158">clicked</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -59.289851,1036.8044 726.47713,998.72054"
+       id="path3162-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-71.810753"
+       y="413.8992"
+       id="text4178"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4180"
+         x="-71.810753"
+         y="413.8992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">Main menu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="626.7121"
+       y="-55.43642"
+       id="text4492"
+       sodipodi:linespacing="125%"
+       transform="translate(0,452.36218)"><tspan
+         sodipodi:role="line"
+         x="626.7121"
+         y="-55.43642"
+         id="tspan4498" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="947.9021"
+       y="-11.044313"
+       id="text4505"
+       sodipodi:linespacing="125%"
+       transform="translate(0,452.36218)"><tspan
+         sodipodi:role="line"
+         x="947.9021"
+         y="-11.044313"
+         id="tspan4511" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="581.85406"
+       y="396.01529"
+       id="text3156-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="581.85406"
+         y="396.01529"
+         id="tspan3160-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">Sky and grass look</tspan><tspan
+         sodipodi:role="line"
+         x="581.85406"
+         y="420.62787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4539">kept through whole </tspan><tspan
+         sodipodi:role="line"
+         x="581.85406"
+         y="445.24042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4541">game</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+### C++ ###
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# That other one...
+*.ii
+
+# Custom stuff
+*~
+.~*
+build/*
+clab_assignment_graphics
+tests/glWindowANDglDrawFuncsTest
+tests/stickmanTest
+tests/bitmapTest
+tests/levelEditor
+tests/lineCircleIntersectTest
+
+doxy/*
+
+not_needed/*
+

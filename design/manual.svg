@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="manual.svg"
+   inkscape:export-filename="/home/daniel/CLabsAssignment/design/manual.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76590193"
+     inkscape:cx="564.33051"
+     inkscape:cy="271.85907"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1113"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="fill:#afdde9;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2993"
+       width="799"
+       height="424"
+       x="0.5"
+       y="452.86218" />
+    <rect
+       style="fill:#afe9af;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="799"
+       height="174"
+       x="0.5"
+       y="877.86218" />
+    <g
+       transform="translate(-60.764399,289.02529)"
+       id="g3001-1-3">
+      <rect
+         y="650.32147"
+         x="258.59906"
+         height="58.588848"
+         width="102.47829"
+         id="rect2995-0-7"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0"
+         y="686.83478"
+         x="285.86752"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="686.83478"
+           x="285.86752"
+           id="tspan2999-9-5"
+           sodipodi:role="line">Exit</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-253.05103"
+       y="692.45709"
+       id="text3156"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-253.05103"
+         y="692.45709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4478">How to text displayed</tspan><tspan
+         sodipodi:role="line"
+         x="-253.05103"
+         y="717.06964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3069">here</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -31.314729,253.51768 271.553539,7.34677"
+       id="path3162"
+       inkscape:connector-curvature="0"
+       transform="translate(0,452.36218)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -73.310414,925.32971 295.419794,9.03014"
+       id="path3162-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-191.3123"
+       y="907.15479"
+       id="text3156-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-191.3123"
+         y="907.15479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4217">Button to return </tspan><tspan
+         sodipodi:role="line"
+         x="-191.3123"
+         y="931.76733"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4471">to menu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-71.810753"
+       y="413.8992"
+       id="text4178"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4180"
+         x="-71.810753"
+         y="413.8992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono">How to play</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:62.14794159px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10.886249"
+       y="509.46884"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="10.886249"
+         y="509.46884"
+         id="tspan2989">Shooting Practice Manual</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4480"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(138.07086,451.34615)"><flowRegion
+         id="flowRegion4482"><rect
+           id="rect4484"
+           width="434.78152"
+           height="161.90063"
+           x="110.98027"
+           y="216.13882" /></flowRegion><flowPara
+         id="flowPara4490">This is how you play...</flowPara></flowRoot>    <g
+       transform="translate(-195.2674,288.85826)"
+       id="g3001-1-3-8">
+      <rect
+         y="650.88763"
+         x="259.58939"
+         height="57.456459"
+         width="100.49761"
+         id="rect2995-0-7-9"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0-1"
+         y="686.36884"
+         x="267.72528"
+         style="font-size:22.84903145px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="686.36884"
+           x="267.72528"
+           id="tspan2999-9-5-5"
+           sodipodi:role="line">&lt;Back</tspan></text>
+    </g>
+    <g
+       transform="translate(414.79768,278.73947)"
+       id="g3001-1-3-1">
+      <rect
+         y="650.32147"
+         x="258.59906"
+         height="58.588848"
+         width="102.47829"
+         id="rect2995-0-7-94"
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2997-1-0-3"
+         y="686.83478"
+         x="282.4054"
+         style="font-size:23.29935455px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="686.83478"
+           x="282.4054"
+           id="tspan2999-9-5-9"
+           sodipodi:role="line">Next</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:19.69005394px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="291.03778"
+       y="1094.3726"
+       id="text3156-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="291.03778"
+         y="1094.3726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan4471-6">Buttons for navigating </tspan><tspan
+         sodipodi:role="line"
+         x="291.03778"
+         y="1118.9851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="tspan3040">the how to pages</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 150.88742,997.44929 206.92716,81.20551"
+       id="path3162-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 466.63348,1070.3848 720.64557,997.41021"
+       id="path3162-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
